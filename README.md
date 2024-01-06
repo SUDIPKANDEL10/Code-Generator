@@ -1,2 +1,3 @@
 # Code-Generator
-Random password generator
+# Random Password Generator
+
